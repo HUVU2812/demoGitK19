@@ -1,7 +1,6 @@
-# Contributor Covenant Code of Conduct
+# Contributing Guidelines
 
-## Our Pledge
-We pledge to make participation in our community a harassment-free experience for everyone.
-
-## Enforcement
-Instances of unacceptable behavior may be reported by contacting [YOUR EMAIL].
+- Fork the repository
+- Create a new branch for your feature or bug fix
+- Commit your changes with clear messages
+- Push your branch and submit a pull request
